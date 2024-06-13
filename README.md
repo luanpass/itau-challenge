@@ -46,10 +46,11 @@ esse retry irá tentar até conseguir realizar com sucesso a requisição
 - *Documentação dos Endpoints:* A documentação está disponível no Swagger : <a href="http://localhost:8080/swagger-ui/index.html">Swagger</a>.
 - *Diagrama da Arquitetura:*
 <br />
+<div align="center">
 <a href="">
-    <img src="assets/itau-challenge-diagram-v3.png" alt="Logo" width="380" height="160">
+    <img src="assets/itau-challenge-diagram-v3.png" alt="Logo" width="1301" height="401">
 </a>
-
+</div>
 ### Tecnologias
 
 - Java 17
