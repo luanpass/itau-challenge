@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="https://www.itau.com.br/media/dam/m/3728062fc365b51b/original/Section-4_Image-with-text.png" alt="Logo" width="140" height="80">
+    <img src="assets/itau-logo.png" alt="Logo" width="140" height="80">
   </a>
 
 <h3 align="center"> Desafio engenharia de software - Itaú</h3>
