@@ -44,6 +44,11 @@ Opitei por utilizar o *flow* da coroutine para realizar o retry em caso de exce�
 esse retry irá tentar até conseguir realizar com sucesso a requisição
 
 - *Documentação dos Endpoints:* A documentação está disponível no Swagger : <a href="http://localhost:8080/swagger-ui/index.html">Swagger</a>.
+- *Diagrama da Arquitetura:*
+<br />
+<a href="">
+    <img src="assets/itau-challenge-diagram-v3.png" alt="Logo" width="380" height="160">
+</a>
 
 ### Tecnologias
 
