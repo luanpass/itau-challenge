@@ -52,6 +52,6 @@ esse retry irá tentar até conseguir realizar com sucesso a requisição
 - Coroutine 1.6.4
 - Wiremock 3.x
 
-## Testes Unitários
+### Testes Unitários
 
 - *Cobertura*: Cobertura total de 80%
