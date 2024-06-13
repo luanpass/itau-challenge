@@ -51,6 +51,7 @@ esse retry irá tentar até conseguir realizar com sucesso a requisição
     <img src="assets/itau-challenge-diagram-v3.png" alt="Logo" width="1301" height="401">
 </a>
 </div>
+
 ### Tecnologias
 
 - Java 17
