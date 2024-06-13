@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/notificacoes"
+  },
+
+  "response": {
+    "status": 429,
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
